@@ -7,7 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <sanketares> with GitHub username ###
+  ### Replace <> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: <sanketares>-azure-ttt
   AZURE_WEBAPP_NAME: <sanketares>-ttt-app
