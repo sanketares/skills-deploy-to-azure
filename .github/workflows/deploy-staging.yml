@@ -7,9 +7,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-staging-workflow
-  ### Replace <sanketares> with GitHub username ###
-  ###############################################
+
 
 
   ### Replace <> with GitHub username ###
